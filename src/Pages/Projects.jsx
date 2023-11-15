@@ -11,7 +11,7 @@ const Projects = () => {
             description: 'ResumeCraft is a resume builder website it create a professional resume based on the details entered by the user ',
         },
         {
-            url: 'https://hridayesh-portfolio.s3.amazonaws.com/index.html',
+            url: 'https://github.com/PeeyushUpadhyay/portfolio',
             image: portfolio_img,
             title: "Presonal Portfolio Website",
             description: 'This project personal portfolio website based on reactjs and tailwind css consist basic information about me',
