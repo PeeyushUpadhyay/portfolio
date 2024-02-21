@@ -5,7 +5,6 @@ import About from "./About";
 import Skills from "./Skills";
 import Education from "./Education";
 import Projects from "./Projects";
-import Experience from "./Experience";
 import Contact from "./Contact";
 import Footer from "../components/Footer";
 import { Link } from "react-scroll";
@@ -89,7 +88,6 @@ export default function Home() {
       <Skills />
       <Education />
       <Projects />
-      <Experience />
       <Contact />
       <Footer />
     </div>
